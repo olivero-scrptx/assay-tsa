@@ -1,0 +1,57 @@
+Run ID,1732661637
+Run Date/Time,2024-11-26 14:52:50
+Application Name,Labcyte Echo Dose-Response
+Application Version,1.7.3
+Protocol Name,tsa-flirtini-241126.edr
+Order ID,
+Reference ID,
+User Name,labuser
+
+[DETAILS]
+Date Time Point,Source Plate Name,Source Plate Barcode,Source Plate Type,Source Well,Source Concentration,Source Concentration Units,Destination Plate Name,Destination Plate Barcode,Destination Plate Type,Destination Well,Destination Concentration,Destination Concentration Units,Transfer Volume,Actual Volume,Sample ID,Sample Name,Survey Fluid Volume,Current Fluid Volume,Fluid Composition,Fluid Units,Fluid Type,Transfer Status
+2024-11-26 14:55:19.729,Source Plate[1],SCO0002393,384PP_DMSO2,A1,0.01,M,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,B1,4.975E-05,M,50,50,,Sample 1,41.841,41.791,97.876,Percent,DMSO,
+2024-11-26 14:55:20.955,Source Plate[1],SCO0002393,384PP_DMSO2,A1,0.01,M,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,B2,4.975E-05,M,50,50,,Sample 1,41.841,41.741,97.876,Percent,DMSO,
+2024-11-26 14:55:21.255,Source Plate[1],SCO0002393,384PP_DMSO2,A1,0.01,M,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,B3,4.975E-05,M,50,50,,Sample 1,41.841,41.691,97.876,Percent,DMSO,
+2024-11-26 14:55:21.555,Source Plate[1],SCO0002393,384PP_DMSO2,A1,0.01,M,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,B4,4.975E-05,M,50,50,,Sample 1,41.841,41.641,97.876,Percent,DMSO,
+2024-11-26 14:55:21.854,Source Plate[1],SCO0002393,384PP_DMSO2,A1,0.01,M,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,B5,4.975E-05,M,50,50,,Sample 1,41.841,41.591,97.876,Percent,DMSO,
+2024-11-26 14:55:22.154,Source Plate[1],SCO0002393,384PP_DMSO2,A1,0.01,M,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,B6,4.975E-05,M,50,50,,Sample 1,41.841,41.541,97.876,Percent,DMSO,
+2024-11-26 14:55:22.454,Source Plate[1],SCO0002393,384PP_DMSO2,A1,0.01,M,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,B7,4.975E-05,M,50,50,,Sample 1,41.841,41.491,97.876,Percent,DMSO,
+2024-11-26 14:55:22.754,Source Plate[1],SCO0002393,384PP_DMSO2,A1,0.01,M,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,B8,4.975E-05,M,50,50,,Sample 1,41.841,41.441,97.876,Percent,DMSO,
+2024-11-26 14:55:23.053,Source Plate[1],SCO0002393,384PP_DMSO2,B1,0.01,M,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,C8,4.975E-05,M,50,50,,Sample 2,42.027,41.977,98.913,Percent,DMSO,
+2024-11-26 14:55:23.352,Source Plate[1],SCO0002393,384PP_DMSO2,B1,0.01,M,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,C7,4.975E-05,M,50,50,,Sample 2,42.027,41.927,98.913,Percent,DMSO,
+2024-11-26 14:55:23.652,Source Plate[1],SCO0002393,384PP_DMSO2,B1,0.01,M,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,C6,4.975E-05,M,50,50,,Sample 2,42.027,41.877,98.913,Percent,DMSO,
+2024-11-26 14:55:23.952,Source Plate[1],SCO0002393,384PP_DMSO2,B1,0.01,M,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,C5,4.975E-05,M,50,50,,Sample 2,42.027,41.827,98.913,Percent,DMSO,
+2024-11-26 14:55:24.251,Source Plate[1],SCO0002393,384PP_DMSO2,B1,0.01,M,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,C4,4.975E-05,M,50,50,,Sample 2,42.027,41.777,98.913,Percent,DMSO,
+2024-11-26 14:55:24.551,Source Plate[1],SCO0002393,384PP_DMSO2,B1,0.01,M,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,C3,4.975E-05,M,50,50,,Sample 2,42.027,41.727,98.913,Percent,DMSO,
+2024-11-26 14:55:24.851,Source Plate[1],SCO0002393,384PP_DMSO2,B1,0.01,M,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,C2,4.975E-05,M,50,50,,Sample 2,42.027,41.677,98.913,Percent,DMSO,
+2024-11-26 14:55:25.151,Source Plate[1],SCO0002393,384PP_DMSO2,B1,0.01,M,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,C1,4.975E-05,M,50,50,,Sample 2,42.027,41.627,98.913,Percent,DMSO,
+2024-11-26 14:55:25.450,Source Plate[1],SCO0002393,384PP_DMSO2,C1,0.01,M,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,D1,4.975E-05,M,50,50,,Sample 3,41.755,41.705,98.968,Percent,DMSO,
+2024-11-26 14:55:25.750,Source Plate[1],SCO0002393,384PP_DMSO2,C1,0.01,M,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,D2,4.975E-05,M,50,50,,Sample 3,41.755,41.655,98.968,Percent,DMSO,
+2024-11-26 14:55:26.050,Source Plate[1],SCO0002393,384PP_DMSO2,C1,0.01,M,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,D3,4.975E-05,M,50,50,,Sample 3,41.755,41.605,98.968,Percent,DMSO,
+2024-11-26 14:55:26.350,Source Plate[1],SCO0002393,384PP_DMSO2,C1,0.01,M,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,D4,4.975E-05,M,50,50,,Sample 3,41.755,41.555,98.968,Percent,DMSO,
+2024-11-26 14:55:26.649,Source Plate[1],SCO0002393,384PP_DMSO2,C1,0.01,M,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,D5,4.975E-05,M,50,50,,Sample 3,41.755,41.505,98.968,Percent,DMSO,
+2024-11-26 14:55:26.948,Source Plate[1],SCO0002393,384PP_DMSO2,C1,0.01,M,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,D6,4.975E-05,M,50,50,,Sample 3,41.755,41.455,98.968,Percent,DMSO,
+2024-11-26 14:55:27.248,Source Plate[1],SCO0002393,384PP_DMSO2,C1,0.01,M,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,D7,4.975E-05,M,50,50,,Sample 3,41.755,41.405,98.968,Percent,DMSO,
+2024-11-26 14:55:27.549,Source Plate[1],SCO0002393,384PP_DMSO2,C1,0.01,M,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,D8,4.975E-05,M,50,50,,Sample 3,41.755,41.355,98.968,Percent,DMSO,
+2024-11-26 14:55:27.849,Source Plate[1],SCO0002393,384PP_DMSO2,D1,0.01,M,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,E8,4.975E-05,M,50,50,,Sample 4,26.691,26.641,94.76,Percent,DMSO,
+2024-11-26 14:55:28.148,Source Plate[1],SCO0002393,384PP_DMSO2,D1,0.01,M,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,E7,4.975E-05,M,50,50,,Sample 4,26.691,26.591,94.76,Percent,DMSO,
+2024-11-26 14:55:28.448,Source Plate[1],SCO0002393,384PP_DMSO2,D1,0.01,M,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,E6,4.975E-05,M,50,50,,Sample 4,26.691,26.541,94.76,Percent,DMSO,
+2024-11-26 14:55:28.748,Source Plate[1],SCO0002393,384PP_DMSO2,D1,0.01,M,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,E5,4.975E-05,M,50,50,,Sample 4,26.691,26.491,94.76,Percent,DMSO,
+2024-11-26 14:55:29.048,Source Plate[1],SCO0002393,384PP_DMSO2,D1,0.01,M,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,E4,4.975E-05,M,50,50,,Sample 4,26.691,26.441,94.76,Percent,DMSO,
+2024-11-26 14:55:29.347,Source Plate[1],SCO0002393,384PP_DMSO2,D1,0.01,M,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,E3,4.975E-05,M,50,50,,Sample 4,26.691,26.391,94.76,Percent,DMSO,
+2024-11-26 14:55:29.647,Source Plate[1],SCO0002393,384PP_DMSO2,D1,0.01,M,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,E2,4.975E-05,M,50,50,,Sample 4,26.691,26.341,94.76,Percent,DMSO,
+2024-11-26 14:55:29.947,Source Plate[1],SCO0002393,384PP_DMSO2,D1,0.01,M,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,E1,4.975E-05,M,50,50,,Sample 4,26.691,26.291,94.76,Percent,DMSO,
+2024-11-26 14:55:35.008,Source Plate[1],SCO0002393,384PP_DMSO2,M23,,,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,A1,,,50,50,,,54.278,54.228,98.424,Percent,DMSO,
+2024-11-26 14:55:36.965,Source Plate[1],SCO0002393,384PP_DMSO2,M23,,,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,A2,,,50,50,,,54.278,54.178,98.424,Percent,DMSO,
+2024-11-26 14:55:37.264,Source Plate[1],SCO0002393,384PP_DMSO2,M23,,,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,A3,,,50,50,,,54.278,54.128,98.424,Percent,DMSO,
+2024-11-26 14:55:37.564,Source Plate[1],SCO0002393,384PP_DMSO2,M23,,,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,A4,,,50,50,,,54.278,54.078,98.424,Percent,DMSO,
+2024-11-26 14:55:37.864,Source Plate[1],SCO0002393,384PP_DMSO2,M23,,,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,A5,,,50,50,,,54.278,54.028,98.424,Percent,DMSO,
+2024-11-26 14:55:38.163,Source Plate[1],SCO0002393,384PP_DMSO2,M23,,,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,A6,,,50,50,,,54.278,53.978,98.424,Percent,DMSO,
+2024-11-26 14:55:38.462,Source Plate[1],SCO0002393,384PP_DMSO2,M23,,,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,A7,,,50,50,,,54.278,53.928,98.424,Percent,DMSO,
+2024-11-26 14:55:38.761,Source Plate[1],SCO0002393,384PP_DMSO2,M23,,,Destination Plate[1],,ABI MicroAmp Optical 384-well REF4309849,A8,,,50,50,,,54.278,53.878,98.424,Percent,DMSO,
+
+Instrument Name,E6XX-21163
+Instrument Model,Echo 650
+Instrument Serial Number,E6XX-21163
+Instrument Software Version,3.1.1
+
